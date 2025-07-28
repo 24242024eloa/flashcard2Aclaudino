@@ -7,12 +7,12 @@ criaCartao(
 criaCartao(
     Séries
     Quantas temporadas tem a série Ransom Canyon?
-    Tem uma temporada até o momento
+    Tem 1 temporada até o momento
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    Filmes
+    Qual foi o primeiro filme criado pela Diney?
+    Branca de Neve e os Sete Anões
 )
 
